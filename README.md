@@ -11,7 +11,7 @@ Please refer the below steps to clone & run the project in minutes.
 `npm install`
 6) Run project
 `npm start`
-your project will be ready on http://localhost:3000
+your project will be ready on http://localhost:3000/api-docs/
 
 # If having any issues, you may refer below course to understand things more clearly
 https://www.udemy.com/course/nodejs-restapi-its-simple/?referralCode=A78A28965EF8F1D7E7BA
